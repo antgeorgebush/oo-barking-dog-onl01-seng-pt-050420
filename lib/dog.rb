@@ -1,4 +1,4 @@
 # Your code goes here!
 
 
-Lassie 
+Lassie = dog.new 
