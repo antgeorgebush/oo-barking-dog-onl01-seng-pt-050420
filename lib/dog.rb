@@ -6,7 +6,9 @@ class = dog
    
 def name=(dog_name)   
   @name = dog_name
-  
-
-Lassie = dog.new 
-lassie.name = "Lassie"
+ end
+ 
+ def bark
+   puts "woof!"
+  end
+end  
