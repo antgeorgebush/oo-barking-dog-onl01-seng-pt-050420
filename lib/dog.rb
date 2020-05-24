@@ -2,3 +2,4 @@
 
 
 Lassie = dog.new 
+lassie 
